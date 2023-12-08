@@ -6,7 +6,7 @@ app_icon = "fa fa-th"
 app_color = "#e74c3c"
 app_email = "info@moduloerp.com"
 app_license = "GNU General Public License (v3)"
-source_link = "https://github.com/akbarfauzy/modulo"
+source_link = "https://github.com/akbarfauzy/erpnext.git"
 app_logo_url = "/assets/erpnext/images/Module_ERP_Logo_01.png"
 
 
